@@ -1,3 +1,5 @@
+Link to a screen capture of this game : http://www.youtube.com/watch?feature=player_embedded&v=vsg4FfXvIjs
+
 In this Game, we are supposed to shoot the Mad Android using the mouse controls to fire the projectile, and 
 W : Forward
 A : Strafe Left
